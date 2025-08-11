@@ -7,3 +7,5 @@ pydantic
 markdown
 python-dotenv
 asyncpg
+responses
+jwt
