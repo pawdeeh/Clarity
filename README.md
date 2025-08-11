@@ -44,8 +44,8 @@ wait-for-it.sh             # Script to wait for DB readiness before starting app
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/PaddeePadoo/Clarity.git
+cd Clarity
 ```
 ### 2. Environment Variables
 
