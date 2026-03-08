@@ -12,3 +12,7 @@ else
   echo "Migrations are already generated. Upgrading to latest..."
   alembic upgrade head
 fi
+
+# Initialize admin user if needed
+echo "Initializing admin account..."
+python /app/init-admin.py
